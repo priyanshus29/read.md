@@ -7,7 +7,7 @@
 ---
 
 ## Summary
-I am an UG Student from Dayananda Sagar University, pursuing a degree in Electronics and Communication Engineering (ECE). Gained practical experience at TruSpeQ Pvt. Ltd. for six months as a fullstack developer specializing in SAP technologies.
+I am an UG Student from Dayananda Sagar University, pursued B.E/B.Tech degree in Electronics and Communication Engineering (ECE). Gained practical experience at TruSpeQ Pvt. Ltd. for six months as a fullstack developer specializing in SAP technologies.
 
 ---
 
