@@ -1,4 +1,4 @@
-# Hello, I'm prxyxnshx! 👋
+# Hello, I'm Priyanshu Singh! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast who loves creating and contributing to innovative projects. Here's a little bit about me:
 
